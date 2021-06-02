@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -11,8 +14,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d353ebe-c2dd-43de-ba56-1bd44a961a36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LocCountApp/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocCountApp/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocCountApp/src/main/java/edu/escuelaing/arsw/loccount/Loc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocCountApp/src/main/java/edu/escuelaing/arsw/loccount/Phy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocCountApp/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LocCountApp/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocCountApp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LocCountApp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocCountApp/src/main/java/edu/escuelaing/arsw/loccount/CountLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/LocCountApp/src/main/java/edu/escuelaing/arsw/loccount/CountLines.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +43,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LocCountApp" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -70,9 +78,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622608277240">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1622608277240" />
     <state x="405" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622601347181">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="405" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1622601347181" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1622610219123">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1622610219123" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1622608422459">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1622608422459" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1622609483631">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1622609483631" />
   </component>
 </project>
