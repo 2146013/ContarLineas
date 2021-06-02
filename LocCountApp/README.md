@@ -7,4 +7,5 @@
 
 ## Diagrama de clase
 
-![Diagrama](img/ManualUsuario/Imagen1.PNG)
+![Diagrama](img/imagen1.PNG)
+![Diagrama](img/Imagen2.PNG)
