@@ -5,8 +5,7 @@ package edu.escuelaing.arsw.loccount;
  * Hello world!
  *
  */
-public class CountLines
-{
+public class CountLines {
     public static void main( String[] args )
     {//loc demo.txt
         String typeOfcount = args[0];//palabra loc o phy
@@ -19,6 +18,10 @@ public class CountLines
             loc.getCantidad();
 
 
+        }
+        else (typeOfcount.toLowerCase().equals("phy")){
+            Phy phy = new Phy(fileName);
+            phy.getCantidad();
         }
     }
 }
