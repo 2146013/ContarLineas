@@ -1,7 +1,7 @@
 # ContarLineasAPP
-##ARSW Arquitectura de Sofware 2021-i
+## ARSW Arquitectura de Sofware 2021-i
 
-###Laura Daniela Pachon Cuan
+### Laura Daniela Pachon Cuan
 
 01 de Junio del 2021
 
